@@ -1,4 +1,4 @@
 def prime?(x)
-   x.prime?
-  return true
+Prime.each(x) do |prime|
+  p prime
 end
