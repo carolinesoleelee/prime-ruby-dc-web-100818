@@ -1,6 +1,6 @@
 def prime?(x)
   require 'prime'
-   x.prime?
+  if x.prime?
   return true
 else
   return false
