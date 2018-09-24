@@ -1,4 +1,4 @@
 def prime(x)
-  x.even
+   x.even
   return true
 end
