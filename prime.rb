@@ -1,4 +1,4 @@
 def prime?(x)
-   Prime.prime?()
+   Prime.prime?(x)
   return true
 end
