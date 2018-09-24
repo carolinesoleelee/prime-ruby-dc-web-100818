@@ -1,7 +1,7 @@
 def prime?(x)
    x.even
   return true
-else
+  x.odd?
   return false
 
 end
