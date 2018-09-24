@@ -1,5 +1,5 @@
 def prime?(x)
-   Prime.prime?
+   Prime.prime?()
   return true
 else
   return false
