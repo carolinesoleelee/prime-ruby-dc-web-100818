@@ -2,5 +2,6 @@ def prime?(x)
   require 'prime'
    x.prime?
   return true
-else false
+else
+  return false
 end
